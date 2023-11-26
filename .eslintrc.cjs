@@ -29,7 +29,7 @@ module.exports = {
   ],
   rules: {
     indent: ['error', 2], // tab
-    'linebreak-style': ['error', 'unix'],
+    'linebreak-style': ['error', 'windows'],
     quotes: ['error', 'single'], // 使用單引號 ' '
     semi: [2, 'never'], // 句尾去分號
     'comma-dangle': ['error', 'always-multiline'], // 自動補逗號

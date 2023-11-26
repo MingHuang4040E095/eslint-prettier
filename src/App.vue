@@ -11,7 +11,6 @@ const a = {
 const gg = { a: [1, 2, 3] }
 
 const b = 'c'
-
 </script>
 
 <template>
